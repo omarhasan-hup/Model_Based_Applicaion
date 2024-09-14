@@ -2,7 +2,7 @@
 ## Makefile generated for Simulink model 'Controller'. 
 ## 
 ## Makefile     : Controller.mk
-## Generated on : Sun Sep 01 00:48:37 2024
+## Generated on : Sun Sep 15 00:02:45 2024
 ## MATLAB Coder version: 4.0 (R2018a)
 ## 
 ## Build Info:
@@ -29,7 +29,7 @@ MATLAB_ROOT               = C:/PROGRA~1/MATLAB/R2018a
 MATLAB_BIN                = C:/PROGRA~1/MATLAB/R2018a/bin
 MATLAB_ARCH_BIN           = $(MATLAB_BIN)/win64
 MASTER_ANCHOR_DIR         = 
-START_DIR                 = D:/games/Simuink_trials/Second_rial
+START_DIR                 = D:/cmake_build_env/Cmake_Build_Env/Simulink_Model_sorce/Source_Model
 ARCH                      = win64
 SOLVER                    = 
 SOLVER_OBJ                = 
